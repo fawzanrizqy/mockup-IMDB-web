@@ -1,0 +1,226 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "slug": "the-shawshank-redemption",
+      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "trailerUrl": "https://www.youtube.com/watch?v=NmzuHjWmXOc&pp=ygUUc2hhd3NoYW5rIHJlZGVtcHRpb24%3D",
+      "imgUrl": "https://m.media-amazon.com/images/I/519NBNHX5BL._AC_UF894,1000_QL80_.jpg",
+      "genreId": "1",
+      "authorId": 1,
+      "rating": 9.3
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "slug": "the-godfather",
+      "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "trailerUrl": "https://www.youtube.com/watch?v=UaVTIH8mujA&pp=ygUVdGhlIGdvZGZhdGhlciB0cmFpbGVy",
+      "imgUrl": "https://images.tokopedia.net/img/cache/700/product-1/2017/5/17/2113510/2113510_a846969b-ad51-47c6-837b-f355a42f0ba1",
+      "genreId": "1",
+      "authorId": 1,
+      "rating": 9.2
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "slug": "the-dark-knight",
+      "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY&pp=ygULZGFyayBrbmlnaHQ%3D",
+      "imgUrl": "https://www.themoviedb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "genreId": "2",
+      "authorId": 1,
+      "rating": 9.0
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "slug": "pulp-fiction",
+      "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "trailerUrl": "https://www.youtube.com/watch?v=s7EdQ4FqbhY&pp=ygUMcHVscCBmaWN0aW9u",
+      "imgUrl": "https://www.themoviedb.org/t/p/w1280/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "genreId": "3",
+      "authorId": 2,
+      "rating": 8.9
+    },
+    {
+      "id": 5,
+      "title": "Schindler's List",
+      "slug": "schindlers-list",
+      "synopsis": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "trailerUrl": "https://www.youtube.com/watch?v=mxphAlJID9U&pp=ygUQc2NoaW5kbGVyJ3MgbGlzdA%3D%3D",
+      "imgUrl": "https://www.themoviedb.org/t/p/w1280/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "genreId": "2",
+      "authorId": 2,
+      "rating": 8.9
+    },
+    {
+      "id": 6,
+      "title": "Fight Club",
+      "slug": "fight-club",
+      "synopsis": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "trailerUrl": "https://www.youtube.com/watch?v=qtRKdVHc-cE&pp=ygUKZmlnaHQgY2x1Yg%3D%3D",
+      "imgUrl": "https://www.themoviedb.org/t/p/w1280/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "genreId": "3",
+      "authorId": 2,
+      "rating": 8.8
+    },
+    {
+      "id": 7,
+      "title": "Forrest Gump",
+      "slug": "forrest-gump",
+      "synopsis": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "trailerUrl": "https://www.youtube.com/watch?v=XHhAG-YLdk8&pp=ygUUZm9ycmVzdCBndW1wIHRyc2lsZXI%3D",
+      "imgUrl": "https://www.themoviedb.org/t/p/w1280/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "genreId": "1",
+      "authorId": 2,
+      "rating": 8.8
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings: The Return of the King",
+      "slug": "the-lord-of-the-rings-the-return-of-the-king",
+      "synopsis": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "trailerUrl": "https://www.youtube.com/watch?v=r5X-hFf6Bwo&pp=ygU1VGhlIExvcmQgb2YgdGhlIFJpbmdzOiBUaGUgUmV0dXJuIG9mIHRoZSBLaW5nIHRyc2lsZXI%3D",
+      "imgUrl": "https://www.themoviedb.org/t/p/w1280/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "genreId": "3",
+      "authorId": 2,
+      "rating": 8.9
+    },
+    {
+      "id": 9,
+      "title": "Inception",
+      "slug": "inception",
+      "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0&t=30s&pp=ygURaW5jZXB0aW9uIHRyc2lsZXI%3D",
+      "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3VT-Ynisr-nRV7R65rC8iZ4jyJKgLHU7wvROHYTnc1X7zg_4i",
+      "genreId": "2",
+      "authorId": 2,
+      "rating": 8.7
+    },
+    {
+      "id": 10,
+      "title": "The Matrix",
+      "slug": "the-matrix",
+      "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "trailerUrl": "https://www.youtube.com/watch?v=vKQi3bBA1y8&pp=ygUObWF0cml4IHRyc2lsZXI%3D",
+      "imgUrl": "https://www.themoviedb.org/t/p/w1280/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "genreId": "2",
+      "authorId": 2,
+      "rating": 8.7
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Drama"
+    },
+    {
+      "id": 3,
+      "name": "Thriller"
+    },
+    {
+      "id": 4,
+      "name": "Horror"
+    },
+    {
+      "id": 5,
+      "name": "Romance"
+     
+    },
+    {
+      "id": 6,
+      "name": "Comedy"
+    
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "ojan@mail.com",
+      "username": "ojanAdmin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "tes@mail.com",
+      "username": "testing",
+      "password": "admin",
+      "role": "admin"
+    }
+  ],
+  "casts": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "name": "Tim Robbins",
+      "profilePict": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRioKqtF-c-YBQwqK8tG7srXfphPn3r1uAmg4xooUO0LF5_WhV6CEGyTqBwyn-3ceHTahDUXbYtog2LUuk"
+    },
+    {
+      "id": 2,
+      "movieId": 2,
+      "name": "Marlon Brando",
+      "profilePict": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTnxaiwrPNmflL0utzRVWT9dZduIy0BjMo_t8IVSWejsVpBR4VRylvaXayICDI9qt2M4qW4YxvBh6JyVhk"
+    },
+    {
+      "id": 3,
+      "movieId": 3,
+      "name": "Christian Bale",
+      "profilePict": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTxmCA9jJ2MrULWgxOwNuZ9Bki9s0G1wKMoVZRquX1t2K6cZfcH7Bm_ueGnkj1GndH_RfDQGlcQrpn4ZYI"
+    },
+    {
+      "id": 4,
+      "movieId": 4,
+      "name": "John Travolta",
+      "profilePict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTef2m6phMBPB9HU59G4-eCQDskgJXsffbePg0sKbqnXlMel_Io8PGXKjEelSceag43Mrs&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "movieId": 5,
+      "name": "Liam Neeson",
+      "profilePict": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQJ5UEk68dAcJPIYgG5E7xdBNoH3v0Rej1485zmSS0pWIrddaT6eiEcm3yQ5kKiYxeqlG7OfEUfEEFeIKw"
+    },
+    {
+      "id": 6,
+      "movieId": 6,
+      "name": "Edward Norton",
+      "profilePict": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQ_FcJCS02IzuZ8AH7ymgQAU3AEF_77qpvV6LPrvmO0OJ-WxUFun5SotkYOH8VTozHEuAh8pQqTYllcPH0"
+    },
+    {
+      "id": 7,
+      "movieId": 7,
+      "name": "Tom Hanks",
+      "profilePict": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcS_lk20BfIyAAqrwRbxAUSxUFZSsnNkNEgCZ5sjcvW4ixGI5EspSaL8HRDzfqcUiuI5cKAKsq382C70Dyo"
+    },
+    {
+      "id": 8,
+      "movieId": 8,
+      "name": "Viggo Mortensen",
+      "profilePict": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTqNrZEuTTed2g1_jrORxMsbH-GGDqEGI7jN0YUUTXnJTAEnp9q90ZK1Ud8QFUHvs-nVf2VN41wdAX32ZE"
+    },
+    {
+      "id": 9,
+      "movieId": 9,
+      "name": "Leonardo DiCaprio",
+      "profilePict": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQo97nXyDcbUsidd1gAPSai3VFstYgzsXdcrjjITgOEZXJJ13olLNBwVQm_qW8Dv0xjsCA91iNCctERycw"
+    },
+    {
+      "id": 10,
+      "movieId": 10,
+      "name": "Keanu Reeves",
+      "profilePict": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR1XEJfS21RK3_4tNl-Aw6fFmUC-3DKobKbrfoR_4DzcZP_gN3COttJXq6YOYWwTf1-xnPGBGkwoG7brwk"
+    },
+    {
+      "id": 11,
+      "movieId": 3,
+      "name": "Heath Ledger",
+      "profilePict": ""
+    }
+  ]
+}
